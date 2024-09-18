@@ -1,9 +1,9 @@
-# Battleships Game
+# Battleships Game 🚢
 
 This project is a battleships game where you play against an AI. 
 There are five battleships of varying lengths.
 You win the game by sinking all of the AI's battleships. 
-The game is played on a website, and the backend is on Python, while the frontend is on Flask and HTML. 
+Game is played on a website, and the backend is on Python, while the frontend is on Flask and HTML. 
  
 ## Installation
 
