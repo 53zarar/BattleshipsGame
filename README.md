@@ -1,18 +1,10 @@
-# Battleships Coursework: ECM1400
+# Battleships Game
 
 This project is a battleships game where you play against an AI. 
 There are five battleships of varying lengths.
 You win the game by sinking all of the AI's battleships. 
 The game is played on a website, and the backend is on Python, while the frontend is on Flask and HTML. 
  
-
-## Self Reflection
-
-I have completed the project with all modules working. I found that components.py and game_engine.py
-were fairly simple however mp_game_engine and main.py were quite challenging for me. The Flask section of the project
-was difficult as I am new to the world of web servers, HTML and Flask. However, it was enjoyable to learn all these new 
-skills and it became simpler as I went along. 
-
 ## Installation
 
 This application uses packages that may need to be installed
